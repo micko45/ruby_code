@@ -1,5 +1,9 @@
 
+n = 0
+a = Array.new
 
-s = "one two three"
-a = s.split(" ")
-puts a[2]
+while n < 5
+  n += 1
+  a.push(n)
+  puts a
+end

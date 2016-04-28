@@ -22,4 +22,16 @@ a.each do | s |
   puts s
 end
 
+#Remove first element of array
+s = "one two three"
+a = s.split(" ")
+a.shift
+puts a
 
+ = Array.new
+
+while n < 5
+  n += 1
+  a.push(n)
+  puts a
+end
