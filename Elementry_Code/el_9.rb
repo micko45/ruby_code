@@ -3,7 +3,6 @@
 def _guess_num(n, guess)
   if guess == n
     a = "y"
-    return a
   end
 end
 

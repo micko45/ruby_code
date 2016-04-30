@@ -1,14 +1,13 @@
 def _randnum
- n = (1 + rand(1000))
- return n
+ n = (1 + rand(1000000))
 end
 
 def _randumarray
-  i = 0
+  i = 0 
   a = Array.new
-  while i < 10
+  while i < 1000
     n = _randnum
-    if !a.include? n
+    if !a.include?(n)
        a.push(n)
        i += 1
     end
@@ -18,7 +17,5 @@ end
 
 a = _randumarray
 
-puts a
-  
-  
-
+puts "Random Array is #{a}"
+puts "Highest number is #{a.sort.pop}"
