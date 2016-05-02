@@ -1,10 +1,13 @@
 #Create Arrays
 
+
 a = Array.new
 
 a = []
 
 a = [ "1", "2", ]
+
+a = %w(foo bar)
 
 
 #convert string to array

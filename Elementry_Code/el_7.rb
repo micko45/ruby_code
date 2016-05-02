@@ -1,13 +1,13 @@
-#Write a program that prints a multiplication table for numbers up to 12.
+=begin
+Write a program that prints a multiplication table for numbers up to 12.
+=end
 
-#a = (1..12).to_a
 i = 0
-
 while i != 13
-  (1..12).each do |x| 
-    total = (i * x)
-    puts "#{i} X #{x} = #{total}"
+  (0..12).each do |x|
+    printf("%2d * %2d = %4d\n", i, x, (i * x))
   end
+  puts "==============="
+  puts "==============="
     i += 1
 end
-

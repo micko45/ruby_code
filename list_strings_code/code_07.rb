@@ -1,34 +1,37 @@
 =begin
-Write three functions that compute the sum of the numbers in a list: using a for-loop, a while-loop and recursion. (Subject to availability of these constructs in your language of choice.)
+Three functions that compute the sum of the numbers
+in a list: using a for-loop, a while-loop and recursion.
 =end
-
 require '../modules/rannumbers.rb'
 
-def computeeach(a)
+a = Rannumbers._randumarray(2320)
+$summ = 0
+
+def compute_each(a)
   sum = 0  
   a.each {|x| sum += x}
-  puts "using each i get #{sum}"
+  puts "I get #{sum} using each"
 end
 
-def computewhile(a)
+def compute_while(a)
   i = sum = 0 
   while i < a.size
     sum += a[i]
     i += 1
   end
-  puts "using while i get #{sum}"
+  puts "I get #{sum} using while"
 end
 
-def computerecusion(a, n)
-  return "using recursion i get #{$summ}" if n.zero?
+def compute_recusion(a, n)
+  if n == 0
+     $summ += a[0]
+     return "I get #{$summ} using recursion"
+  end
   $summ += a[n]
-  computerecusion(a, n -1)
+  compute_recusion(a, n -1)
 end
 
 
-a = Rannumbers._randumarray(10)
-computeeach(a)
-computewhile(a)
-$summ = a[0]
-puts computerecusion(a, a.size - 1)
-
+compute_each(a)
+compute_while(a)
+puts compute_recusion(a, a.size - 1)
