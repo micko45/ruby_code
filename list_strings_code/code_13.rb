@@ -1,16 +1,8 @@
 =begin
-Write a function that computes the list of the first 100 Fibonacci numbers.
+Prints the first 100 fibinace seqences
 =end
 
-def show_fibonacci
-  i = 1
-  fibonacci = Array.new
-  (1..100).each do |x| 
-print "#{i} + ", i + (i + 1), "\n"
-    fibonacci.push(i + (i + 1))
-    i += 1
-  end
-  return fibonacci
-end
-  
-  show_fibonacci
+a = [0, 1 ]
+
+100.times { a.push(a[-1] + a[-2])}
+puts a
