@@ -44,3 +44,28 @@ module Ampalindrone
     end
   end
 end
+
+module Printinbox
+  def Printinbox.repeating(timest)
+   (timest).times {print "*"}
+   print "\n"
+  end
+
+  def Printinbox.stringsize(a)
+    n = 0
+    a.each do |x|
+      if n < x.size
+        n = x.size
+      end
+    end
+    return n
+  end
+
+  def Printinbox.printout(a, n)
+    repeating(n + 4)
+    a.each do |y|
+      printf("* %-#{n}s *\n", y)
+    end
+    repeating(n + 4)
+  end
+end
