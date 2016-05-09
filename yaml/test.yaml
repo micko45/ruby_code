@@ -1,0 +1,8 @@
+--- 
+:network: 
+- :interface0:
+  - :mac: "00:22:"
+  - :name: "eth1"
+  - :netmask: "255.255.255.0"
+  - :gateway: "192.168.15.1"
+  - :ipaddr : "192.168.15.23"

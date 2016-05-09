@@ -1,0 +1,44 @@
+---
+:hosts:
+  server01:
+    domain: example.com
+    classes:
+    - ldap
+    - backup
+    - kdump
+      kdump_args: foobar
+    defaultgw: 195.233.2.1
+    interfaces:
+    - mac: '00:22'
+      adr: 192.167.22.2
+      sub: 255.255.255.0
+      nam: server01-dep
+      int: 'eth0'
+      set: autoneg on
+    - mac: '00:22:33'
+      adr: 192.167.21.2
+      sub: 255.255.255.0
+      nam: server01
+      set: autoneg on
+      int: 'eth1'
+  server02:
+    domain: example.com
+    classes:
+    - ldap
+    - backup
+    - kdump
+      kdump_args: foobar
+    defaultgw: 195.233.2.1
+    interfaces:
+    - mac: '00:27'
+      adr: 192.167.22.4
+      sub: 255.255.255.0
+      nam: server02-dep
+      set: autoneg on
+      int: eth0
+    - mac: '00:22:33'
+      adr: 192.167.21.3
+      sub: 255.255.255.0
+      nam: server02
+      set: autoneg on
+      int: eth1

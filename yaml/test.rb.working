@@ -1,0 +1,29 @@
+require 'yaml'
+
+@thing = YAML.load_file('vf.yaml')
+#puts thing.inspect 
+def get_net_rdp
+  @thing[:hosts].each do | key, config|
+    if config.has_key?('interfaces')
+      config['interfaces'][0].each {|y, x| puts "#{y} => #{x} "}
+      puts
+    end
+  end
+end
+
+def get_net_prod
+  @thing[:hosts].each do | key, config|
+    if config.has_key?('interfaces')
+      config['interfaces'][1].each {|y, x| puts "#{y} => #{x} "}
+      puts
+    end
+  end
+end
+
+def list_new_hosts
+   @thing[:hosts].each {|key, hash| puts key}
+end
+
+get_net_rdp
+get_net_prod
+list_new_hosts
