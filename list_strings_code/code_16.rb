@@ -3,7 +3,7 @@
 
 require '../modules/mmg.rb'
 
-a = Randomize._rand((0..90).to_a)
+a = Randomize._rand((0..10).to_a)
 puts "unsorted: #{a}"
 
 (a.size).times do 
