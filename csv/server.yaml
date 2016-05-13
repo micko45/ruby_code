@@ -1,0 +1,13 @@
+--- 
+- - !str:CSV::Cell hostname
+  - !str:CSV::Cell ip
+  - !str:CSV::Cell domain
+  - !str:CSV::Cell defaultgw
+  - !str:CSV::Cell netmask
+  - !str:CSV::Cell mac
+- - !str:CSV::Cell bobby
+  - !str:CSV::Cell 10.10.10.10
+  - !str:CSV::Cell example.com
+  - !str:CSV::Cell 10.10.10.1
+  - !str:CSV::Cell 255.255.255.0
+  - !str:CSV::Cell 11:22:33:44:55:66
