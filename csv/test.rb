@@ -26,8 +26,9 @@ def alt_1
 end
 
 def alt_2
-  csv = CSV.new($f_in, :headers => true, :header_converters => :symbol, :converters => :all)
+  csv = CSV.read($f_in, :headers => true, :header_converters => :symbol, :converters => :all)
   csv.to_a.map {|row| row.to_hash }
+puts csv.inspect
 end 
 alt_2
 

@@ -24,4 +24,14 @@ def hash_from_array2
   h4 = Hash[*a4]
   puts h4.inspect
 end
-hash_from_array2
+
+def array_of_hashes
+  a = [{ 'user' => 'bob',
+         'pass' => 'thing',
+      }, 
+      {  'user' => 'fred',
+         'pass' => 'thong'
+      }]
+  puts a.inspect
+end
+ array_of_hashes
