@@ -214,11 +214,15 @@ SA t.m. SM Sweden 14 18
 SN t.m. SR, 3Z Poland 15 28
 ST Sudan 34 48
 SU Egypt 34 38
-SV, SZ, J4 Greece (Griekenland) 20 28
-SV5, J45 Dodecanese (Rhodos) 20 28
-SV9, J49 Crete 20 28
-IRTS REGION 4 CLASSES 2010
-SV2A, SY Mount Athos 20 28
+SV Greece (Griekenland) 20 28
+SZ Greece (Griekenland) 20 28
+J4 Greece (Griekenland) 20 28
+SV5 Dodecanese (Rhodos) 20 28
+J45 Dodecanese (Rhodos) 20 28
+SV9 Crete 20 28
+J49 Crete 20 28
+SY Mount Athos 20 28
+SV2A Mount Athos 20 28
 T2 Tuvalu 31 65
 T3o West Kiribati 31 65
 T31 Cent. Kiribati 31 62
@@ -256,7 +260,6 @@ V3 Belize 07 11
 V4 St. Kits, Nevis 08 11
 V5 Namibia 38 57
 V6 Frenche State of Micronesia 27 65
-IRTS REGION 4 CLASSES 2010
 V7 Marshall Isl. 31 65
 V8 Brunei 28 54
 VE, VC, VO,
@@ -352,12 +355,18 @@ IRTS REGION 4 CLASSES 2010
 4U1ITU I.T.U. Geneve 14 28
 4U1UN Hq. United Nations 05 08
 4W East Timor 28 54
-4X, 4Z Israel 20 39
+4X Israel 20 39
+4Z Israel 20 39
 5A Libya 34 38
-5B, C4, P3 Cyprus 20 39
-5H, 5I Tanzania 37 53
-5N, 5O Nigeria 35 46
-5R, 5S Madagascar 39 53
+5B Cyprus 20 39
+C4 Cyprus 20 39
+P3 Cyprus 20 39
+5H Tanzania 37 53
+5I Tanzania 37 53
+5N Nigeria 35 46
+5O Nigeria 35 46
+5R Madagascar 39 53
+5S Madagascar 39 53
 5T Mauritania 35 46
 5U Niger 35 46
 5V Togo 35 46
