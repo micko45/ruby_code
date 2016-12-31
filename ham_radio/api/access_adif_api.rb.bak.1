@@ -1,0 +1,44 @@
+require './adif_api.rb'
+
+if ARGV.length ==  2
+  tosearch = ARGV[1]
+end 
+
+def itierateArray(data)
+  data.each do |x| 
+    searchHash(x, 'call', tosearch)
+    #itierateHash(x)
+  end
+end
+
+def itierateHash(hashdata)
+    hashdata.each do |k, v|
+      puts "#{k} #{v}"
+    end
+end
+
+def searchArray(tosearch, data)
+  found = Array.new 
+  data.each do |x| 
+    returned = searchHash(x, 'call', tosearch)
+    if returned.is_a?(Hash)
+      found.push(returned)
+    end
+  end
+  return found
+end
+
+def searchHash(h, k, search)
+   if h[k].to_s.strip == search
+     return h 
+   else 
+     return 0
+   end
+end
+
+data = ADIF2Hash.hash(ARGV[0])
+testarray = ADIF2Hash.searchArray(tosearch, data) 
+puts testarray.length
+#itierateArray(data) 
+  #puts "#{x['call']}"
+#ClassNameputs "#{h['call']} #{search}"

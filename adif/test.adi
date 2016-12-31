@@ -1,0 +1,498 @@
+#++
+#
+#   HRD Logbook version 5.24.0.38, Copyright © 2005 - 2012 by HRD Software, LLC
+#   http://www.ham-radio-deluxe.com
+#
+#   Created:  23-Sep-2016 11:26:24
+#
+#--
+
+<ADIF_VERS:3>2.2
+<PROGRAMID:14>HamRadioDeluxe
+<PROGRAMVERSION:17>Version 5.24.0.38
+<EOH>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:6>VA3LLZ <comment:18>First Canadian QSO 
+<cont:2>NA <country:6>Canada <cqz:1>5 <distance:8>5219.789 <dxcc:1>1 <eqsl_qslsdate:8>20160922 <eqsl_qsl_rcvd:1>N 
+<eqsl_qsl_sent:1>Y <eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: VA3LLZ Date: 20160922 Time: 2233 Band: 20M Mode: JT65 RST: -09 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.076000 <gridsquare:4>FN03 <ituz:1>2 <k_index:3>0.0 <lat:11>N043 30.000 <lon:11>W079 00.000 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:4>JT65 <my_gridsquare:6>IO63QI <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:9>Volodymyr <pfx:3>VA3 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:4>YORK <rst_rcvd:3>-21 <rst_sent:3>-09 <rx_pwr:3>0.0 <sfi:3>0.0 <state:2>ON <station_callsign:6>EI5HSB 
+<swl:1>0 <time_off:6>224000 <time_on:6>223300 <qso_date:8>20160922 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:4>NS4T <comment:22>Second US contact ever 
+<cont:2>NA <country:13>United States <cqz:1>5 <distance:8>6276.920 <dxcc:3>291 <eqsl_qslsdate:8>20160922 
+<eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:143>Result: 1 out of 1 records added, Information: From: EI5HSB To: NS4T Date: 20160922 Time: 2218 Band: 20M Mode: JT65 RST: -07 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.076000 <gridsquare:4>EM74 <ituz:1>6 <k_index:3>0.0 <lat:11>N034 30.000 <lon:11>W085 00.000 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:4>JT65 <my_gridsquare:6>IO63QI <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:7>Phillip <pfx:3>NS4 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:11>Cedar Bluff <rst_rcvd:3>-08 <rst_sent:3>-07 <rx_pwr:3>0.0 <sfi:3>0.0 <state:2>AL 
+<station_callsign:6>EI5HSB <swl:1>0 <time_off:6>222000 <time_on:6>221800 <qso_date:8>20160922 <tx_pwr:6>15.000 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:6>KD8WBZ <comment:12>First US QSO <cont:2>NA 
+<country:13>United States <cqz:1>5 <distance:8>5614.295 <dxcc:3>291 <eqsl_qslsdate:8>20160922 <eqsl_qsl_rcvd:1>N 
+<eqsl_qsl_sent:1>Y <eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: KD8WBZ Date: 20160922 Time: 2154 Band: 20M Mode: JT65 RST: -23 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.076000 <gridsquare:4>EN81 <ituz:1>6 <k_index:3>0.0 <lat:11>N041 30.000 <lon:11>W083 00.000 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:4>JT65 <my_gridsquare:6>IO63QI <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:5>Darin <pfx:3>KD8 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:10>Waterville <rst_rcvd:3>-16 <rst_sent:3>-23 <rx_pwr:3>0.0 <sfi:3>0.0 <state:2>OH 
+<station_callsign:6>EI5HSB <swl:1>0 <time_off:6>220500 <time_on:6>215400 <qso_date:8>20160922 <tx_pwr:6>15.000 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:5>DF2SD <comment:17>second jt65hf qso <cont:2>EU 
+<country:24>Fed. Republic of Germany <cqz:2>14 <distance:7>946.011 <dxcc:3>230 <eqsl_qslsdate:8>20160922 
+<eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:144>Result: 1 out of 1 records added, Information: From: EI5HSB To: DF2SD Date: 20160922 Time: 2014 Band: 20M Mode: JT65 RST: -05 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.076000 <gridsquare:4>JO31 <ituz:2>28 <k_index:3>0.0 <lat:11>N051 30.000 <lon:11>E007 00.000 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:4>JT65 <my_gridsquare:6>IO63QI <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:6>Dieter <pfx:3>DF2 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:5>Weeze <rst_rcvd:3>-09 <rst_sent:3>-05 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:6>EI5HSB 
+<swl:1>0 <time_off:6>201900 <time_on:6>201400 <qso_date:8>20160922 <tx_pwr:6>15.000 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:6>IK4ISR <comment:13>First PSK QSO <cont:2>EU 
+<country:5>Italy <cqz:2>15 <distance:8>1615.320 <dxcc:3>248 <eqsl_qslsdate:8>20160922 <eqsl_qsl_rcvd:1>N 
+<eqsl_qsl_sent:1>Y <eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: IK4ISR Date: 20160922 Time: 1959 Band: 20M Mode: JT65 RST: -07 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.076000 <gridsquare:4>JN54 <ituz:2>28 <k_index:3>0.0 <lat:11>N044 30.000 <lon:11>E011 00.000 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:4>JT65 <my_gridsquare:6>IO63QI <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:6>DAVIDE <pfx:3>IK4 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:20>SAN GIORGIO DI PIANO <rst_rcvd:3>-12 <rst_sent:3>-07 <rx_pwr:3>0.0 <sfi:3>0.0 
+<station_callsign:6>EI5HSB <swl:1>0 <time_off:6>200400 <time_on:6>195900 <qso_date:8>20160922 <tx_pwr:6>15.000 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>40m <call:6>9A3HHS <cont:2>EU <country:7>Croatia <cqz:2>15 
+<distance:3>0.0 <dxcc:3>497 <eqsl_qslsdate:8>20160316 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:146>Result: 1 out of 1 records added, Information: From: EI5HSB To: 9A3HHS Date: 20160316 Time: 2318 Band: 40M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.070000 <gridsquare:6>JN75xt <ituz:2>28 <k_index:3>0.0 <lat:11>N045 48.750 <lon:11>E015 57.500 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:4>Ivan 
+<pfx:2>9A <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 
+<qth:6>Zagreb <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>232316 <time_on:6>231833 
+<qso_date:8>20160316 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>40m <call:6>OE5EGN <cont:2>EU <country:7>Austria <cqz:2>15 
+<distance:3>0.0 <dxcc:3>206 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:8>7.039043 <gridsquare:6>JN77ak 
+<ituz:2>28 <k_index:3>0.0 <lat:11>N047 26.250 <lon:11>E014 02.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N 
+<mode:5>PSK63 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:4>Karl <pfx:3>OE5 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
+<qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 
+<sfi:3>0.0 <state:7>Gmunden <swl:1>0 <time_off:6>200709 <time_on:6>200512 <qso_date:8>20160316 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>40m <call:6>R1566O <comment:44>R1566O, will run from 5 March to 5 June 2016 
+<cont:2>EU <country:15>European Russia <cqz:2>16 <distance:3>0.0 <dxcc:2>54 <eqsl_qslsdate:8>20160316 
+<eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:146>Result: 1 out of 1 records added, Information: From: EI5HSB To: R1566O Date: 20160316 Time: 1919 Band: 40M Mode: PSK63 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.039082 <gridsquare:6>KO85lx <ituz:2>19 <k_index:3>0.0 <lat:11>N055 58.750 <lon:11>E036 57.500 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK63 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:15>Special Station 
+<pfx:5>R1566 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 
+<qth:4>Orel <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>192335 <time_on:6>191927 
+<qso_date:8>20160316 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>30m <call:4>S58X <cont:2>EU <country:8>Slovenia <cqz:2>15 
+<distance:3>0.0 <dxcc:3>499 <eqsl_qslsdate:8>20160316 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:144>Result: 1 out of 1 records added, Information: From: EI5HSB To: S58X Date: 20160316 Time: 1901 Band: 30M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>10.140111 <gridsquare:6>JN76ha <ituz:2>28 <k_index:3>0.0 <lat:11>N046 01.250 
+<lon:11>E014 37.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:5>Borut <pfx:3>S58 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:7>Kamnica <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>190412 
+<time_on:6>190154 <qso_date:8>20160316 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>30m <call:6>OK8DCC <cont:2>EU <country:14>Czech Republic 
+<cqz:2>15 <distance:3>0.0 <dxcc:3>503 <eqsl_qslsdate:8>20160316 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:146>Result: 1 out of 1 records added, Information: From: EI5HSB To: OK8DCC Date: 20160316 Time: 1835 Band: 30M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>10.140000 <gridsquare:6>JN79ii <ituz:2>28 <k_index:3>0.0 <lat:11>N000 00.000 
+<lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:7>Dietmar <pfx:3>OK8 <qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <qth:17>Plana Nad Luznici 
+<rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>183812 <time_on:6>183518 
+<qso_date:8>20160316 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>40m <call:6>PA4ARP <cont:2>EU <country:11>Netherlands 
+<cqz:2>14 <distance:3>0.0 <dxcc:3>263 <eqsl_qslsdate:8>20160316 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:146>Result: 1 out of 1 records added, Information: From: EI5HSB To: PA4ARP Date: 20160316 Time: 1815 Band: 40M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.039871 <gridsquare:6>JO21mx <ituz:2>27 <k_index:3>0.0 <lat:11>N051 58.750 <lon:11>E005 02.500 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:3>Cor 
+<pfx:3>PA4 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 
+<qth:10>MOLENSCHOT <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>182439 
+<time_on:6>181534 <qso_date:8>20160316 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>40m <call:5>UT1HV <cont:2>EU <country:7>Ukraine <cqz:2>16 
+<distance:3>0.0 <dxcc:3>288 <eqsl_qslsdate:8>20160315 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: UT1HV Date: 20160315 Time: 2218 Band: 40M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.041000 <gridsquare:6>KN69pw <ituz:2>29 <k_index:3>0.0 <lat:11>N049 56.250 <lon:11>E033 17.500 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:4>Yuri 
+<pfx:3>UT1 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 
+<qth:13>Novoorechovka <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>222038 
+<time_on:6>221803 <qso_date:8>20160315 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>40m <call:6>CT1BWU <cont:2>EU <country:8>Portugal 
+<cqz:2>14 <distance:3>0.0 <dxcc:3>272 <eqsl_qslsdate:8>20160315 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:146>Result: 1 out of 1 records added, Information: From: EI5HSB To: CT1BWU Date: 20160315 Time: 2211 Band: 40M Mode: PSK63 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.041000 <gridsquare:6>IM59qe <ituz:2>37 <k_index:3>0.0 <lat:11>N039 11.250 <lon:11>W008 37.500 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK63 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:4>Joao 
+<pfx:3>CT1 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 
+<qth:8>Almeirim <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>221432 
+<time_on:6>221137 <qso_date:8>20160315 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>40m <call:6>IU5CTX <cont:2>EU <country:5>Italy <cqz:2>15 
+<distance:3>0.0 <dxcc:3>248 <eqsl_qslsdate:8>20160315 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:146>Result: 1 out of 1 records added, Information: From: EI5HSB To: IU5CTX Date: 20160315 Time: 2206 Band: 40M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.041000 <gridsquare:6>JN53nu <ituz:2>28 <k_index:3>0.0 <lat:11>N043 51.250 <lon:11>E011 07.500 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:8>Leonardo 
+<pfx:3>IU5 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 
+<qth:5>Prato <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>221008 <time_on:6>220606 
+<qso_date:8>20160315 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>40m <call:5>OM7AS <cont:2>EU <country:15>Slovak Republic 
+<cqz:2>15 <distance:3>0.0 <dxcc:3>504 <eqsl_qslsdate:8>20160315 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: OM7AS Date: 20160315 Time: 2157 Band: 40M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.041000 <gridsquare:6>JN98or <ituz:2>28 <k_index:3>0.0 <lat:11>N048 43.750 <lon:11>E019 12.500 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:4>Jaro 
+<pfx:3>OM7 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 
+<qth:14>Banska-Bystric <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>220425 
+<time_on:6>215752 <qso_date:8>20160315 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>40m <call:6>OK2WMC <cont:2>EU <country:14>Czech Republic 
+<cqz:2>15 <distance:3>0.0 <dxcc:3>503 <eqsl_qslsdate:8>20160315 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:146>Result: 1 out of 1 records added, Information: From: EI5HSB To: OK2WMC Date: 20160314 Time: 2103 Band: 40M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.040385 <gridsquare:6>JN79pp <ituz:2>28 <k_index:3>0.0 <lat:11>N049 38.750 <lon:11>E015 17.500 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:6>Michal 
+<pfx:3>OK2 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 
+<qth:7>Travaoe <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>210637 <time_on:6>210317 
+<qso_date:8>20160314 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>40m <call:6>IW0FGX <cont:2>EU <country:5>Italy <cqz:2>15 
+<distance:3>0.0 <dxcc:3>248 <eqsl_qslsdate:8>20160315 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:146>Result: 1 out of 1 records added, Information: From: EI5HSB To: IW0FGX Date: 20160314 Time: 2051 Band: 40M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.039998 <gridsquare:6>JN61sr <ituz:2>28 <k_index:3>0.0 <lat:11>N041 43.750 <lon:11>E013 32.500 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:7>Filippo 
+<pfx:3>IW0 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 
+<rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>205628 <time_on:6>205102 
+<qso_date:8>20160314 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>30m <call:4>SP3N <cont:2>EU <country:6>Poland <cqz:2>15 
+<distance:3>0.0 <dxcc:3>269 <eqsl_qslsdate:8>20160312 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:144>Result: 1 out of 1 records added, Information: From: EI5HSB To: SP3N Date: 20160312 Time: 1802 Band: 30M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>10.140000 <gridsquare:6>JO92ii <ituz:2>28 <k_index:3>0.0 <lat:11>N052 21.250 
+<lon:11>E018 42.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:4>Toni <pfx:3>SP3 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:10>Ostrzeszow <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 
+<time_off:6>181119 <time_on:6>180217 <qso_date:8>20160312 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:5>HA9PP <cont:2>EU <country:7>Hungary <cqz:2>15 
+<distance:3>0.0 <dxcc:3>239 <eqsl_qslsdate:8>20160312 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: HA9PP Date: 20160312 Time: 1626 Band: 20M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <gridsquare:6>KN07kx <ituz:2>28 <k_index:3>0.0 <lat:11>N047 58.750 
+<lon:11>E020 52.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:5>Steve <pfx:3>HA9 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:11>Nyekladhaza <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 
+<time_off:6>162956 <time_on:6>162642 <qso_date:8>20160312 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:6>IV3KFV <cont:2>EU <country:5>Italy <cqz:2>15 
+<distance:3>0.0 <dxcc:3>248 <eqsl_qslsdate:8>20160312 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:146>Result: 1 out of 1 records added, Information: From: EI5HSB To: IV3KFV Date: 20160312 Time: 0928 Band: 20M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <gridsquare:6>JN61sr <ituz:2>28 <k_index:3>0.0 <lat:11>N041 43.750 
+<lon:11>E013 32.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:7>Roberto <pfx:3>IV3 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:7>Trieste <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>093512 
+<time_on:6>092810 <qso_date:8>20160312 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <ant_path:1>S <band:3>20m <call:8>SX90IARU <comment:65>90th Anniversary of IARU, the Radio Amateur Association of Greece 
+<cont:2>EU <country:5>Crete <cqz:2>20 <distance:3>0.0 <dxcc:2>40 <eqsl_qslsdate:8>20151222 <eqsl_qsl_rcvd:1>N 
+<eqsl_qsl_sent:1>Y <eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: SX90IARU Date: 20151222 Time: 1604 Band: 20M Mode: SSB RST: 59 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.255000 <gridsquare:6>KM25jb <ituz:2>28 <k_index:3>0.0 <lat:11>N035 03.750 
+<lon:11>E024 47.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:3>SSB <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:15>Special Station <pfx:4>SX90 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D 
+<qso_complete:1>Y <qso_random:1>0 <qth:5>Crete <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 
+<swl:1>0 <time_off:6>160500 <time_on:6>160400 <qso_date:8>20151222 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <ant_path:1>S <band:3>15m <call:7>YO0YOTA <comment:50>Special station youth on the air. www.ham-yota.com 
+<cont:2>EU <country:7>Romania <cqz:2>20 <distance:3>0.0 <dxcc:3>275 <eqsl_qslsdate:8>20151222 <eqsl_qsl_rcvd:1>N 
+<eqsl_qsl_sent:1>Y <eqsl_status:144>Result: 1 out of 1 records added, Information: From: EI5HSB To: YO0YOTA Date: 20151222 Time: 1218 Band: 15M Mode: SSB RST: 59 SatMode: PropMode: 
+<force_init:1>0 <freq:9>21.270000 <gridsquare:6>KN25lu <ituz:2>28 <k_index:3>0.0 <lat:11>N045 51.250 
+<lon:11>E024 57.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:3>SSB <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:15>Special Station <pfx:3>YO0 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:8>Budapest <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>121900 
+<time_on:6>121800 <qso_date:8>20151222 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <ant_path:1>S <band:3>40m <call:6>HG4ITU <cont:2>EU <country:7>Hungary 
+<cqz:2>15 <distance:3>0.0 <dxcc:3>239 <eqsl_qslsdate:8>20151031 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:143>Result: 1 out of 1 records added, Information: From: EI5HSB To: HG4ITU Date: 20151031 Time: 1759 Band: 40M Mode: SSB RST: 59 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.174000 <gridsquare:6>JN97ne <ituz:2>28 <k_index:3>0.0 <lat:11>N047 11.250 <lon:11>E019 07.500 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:3>SSB <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:15>Special Station 
+<pfx:3>HG4 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 
+<qth:8>Budapest <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>175913 <time_on:6>175913 
+<qso_date:8>20151031 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>40m <call:5>LY1CZ <cont:2>EU <country:9>Lithuania 
+<cqz:2>15 <distance:3>0.0 <dxcc:3>146 <eqsl_qslsdate:8>20150809 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: LY1CZ Date: 20150809 Time: 0033 Band: 40M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.040000 <gridsquare:6>KO14wv <ituz:2>29 <k_index:3>0.0 <lat:11>N054 53.750 <lon:11>E023 52.500 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:6>Valdas 
+<pfx:3>LY1 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 
+<qth:5>Kauna <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>003546 <time_on:6>003314 
+<qso_date:8>20150809 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:6>SV8LMM <cont:2>EU <country:6>Greece <cqz:2>20 
+<distance:3>0.0 <dxcc:3>236 <eqsl_qslsdate:8>20150809 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:146>Result: 1 out of 1 records added, Information: From: EI5HSB To: SV8LMM Date: 20150809 Time: 0025 Band: 20M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <gridsquare:6>KM09tl <ituz:2>28 <k_index:3>0.0 <lat:11>N039 28.750 
+<lon:11>E021 37.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:8>THANASIS <pfx:3>SV8 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:8>Chalkida <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>002606 
+<time_on:6>002543 <qso_date:8>20150809 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>30m <call:5>R7RIB <cont:2>EU <country:15>European Russia 
+<cqz:2>16 <distance:3>0.0 <dxcc:2>54 <eqsl_qslsdate:8>20150808 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: R7RIB Date: 20150808 Time: 2120 Band: 30M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>10.140000 <gridsquare:6>KO85lx <ituz:2>19 <k_index:3>0.0 <lat:11>N055 58.750 
+<lon:11>E036 57.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:4>Yury <pfx:2>R7 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:5>Minsk <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>212426 
+<time_on:6>212006 <qso_date:8>20150808 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:6>SV9RMU <cont:2>EU <country:5>Crete <cqz:2>20 
+<distance:3>0.0 <dxcc:2>40 <eqsl_qslsdate:8>20150807 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:146>Result: 1 out of 1 records added, Information: From: EI5HSB To: SV9RMU Date: 20150807 Time: 1504 Band: 20M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <gridsquare:6>KM25jb <ituz:2>28 <k_index:3>0.0 <lat:11>N035 03.750 
+<lon:11>E024 47.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:5>JUKKA <pfx:3>SV9 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>151124 
+<time_on:6>150448 <qso_date:8>20150807 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:4>TF5B <cont:2>EU <country:7>Iceland <cqz:2>40 
+<distance:3>0.0 <dxcc:3>242 <eqsl_qslsdate:8>20150807 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:144>Result: 1 out of 1 records added, Information: From: EI5HSB To: TF5B Date: 20150807 Time: 1449 Band: 20M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <gridsquare:6>IP04rr <ituz:2>17 <k_index:3>0.0 <lat:11>N064 43.750 
+<lon:11>W018 32.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:5>Billi <pfx:3>TF5 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:8>Akureyri <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>145504 
+<time_on:6>144917 <qso_date:8>20150807 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>40m <call:6>ON9BCD <cont:2>EU <country:7>Belgium <cqz:2>14 
+<distance:3>0.0 <dxcc:3>209 <eqsl_qslsdate:8>20150807 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:146>Result: 1 out of 1 records added, Information: From: EI5HSB To: ON9BCD Date: 20150807 Time: 1425 Band: 40M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.040000 <gridsquare:6>JO20xe <ituz:2>27 <k_index:3>0.0 <lat:11>N050 11.250 <lon:11>E005 57.500 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:4>Dick 
+<pfx:3>ON9 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 
+<qth:9>Wathermal <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>143324 
+<time_on:6>142550 <qso_date:8>20150807 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:5>OM3DM <cont:2>EU <country:15>Slovak Republic 
+<cqz:2>15 <distance:3>0.0 <dxcc:3>504 <eqsl_qslsdate:8>20150807 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: OM3DM Date: 20150807 Time: 1416 Band: 20M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <gridsquare:6>JN98rs <ituz:2>28 <k_index:3>0.0 <lat:11>N048 46.250 
+<lon:11>E019 27.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:5>Dusan <pfx:3>OM3 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:5>Detva <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>141924 
+<time_on:6>141600 <qso_date:8>20150807 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:5>EA3CS <cont:2>EU <country:5>Spain <cqz:2>14 
+<distance:3>0.0 <dxcc:3>281 <eqsl_qslsdate:8>20150807 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: EA3CS Date: 20150807 Time: 1403 Band: 20M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <gridsquare:6>IN80aa <ituz:2>37 <k_index:3>0.0 <lat:11>N040 01.250 
+<lon:11>W003 57.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:4>Joan <pfx:3>EA3 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:4>Rubi <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>140720 
+<time_on:6>140343 <qso_date:8>20150807 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:6>IZ0RPW <cont:2>EU <country:5>Italy <cqz:2>15 
+<distance:3>0.0 <dxcc:3>248 <eqsl_qslsdate:8>20150804 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:146>Result: 1 out of 1 records added, Information: From: EI5HSB To: IZ0RPW Date: 20150804 Time: 2142 Band: 20M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <gridsquare:6>JN52vc <ituz:2>28 <k_index:3>0.0 <lat:11>N042 06.250 
+<lon:11>E011 47.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:7>Stefano <pfx:3>IZ0 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:13>Civitavecchia <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 
+<time_off:6>214536 <time_on:6>214254 <qso_date:8>20150804 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:5>G3PGA <cont:2>EU <country:7>England <cqz:2>14 
+<distance:3>0.0 <dxcc:3>223 <eqsl_qslsdate:8>20150621 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: G3PGA Date: 20150621 Time: 2121 Band: 20M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <ituz:2>27 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N 
+<lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:4>Mike <pfx:2>G3 
+<qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <qth:38>Fremington In The County Of Devonshire 
+<rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>212713 <time_on:6>212103 
+<qso_date:8>20150621 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:5>E74DO <cont:2>EU <country:18>Bosnia-Herzegovina 
+<cqz:2>15 <distance:3>0.0 <dxcc:3>501 <eqsl_qslsdate:8>20150613 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: E74DO Date: 20150613 Time: 1908 Band: 20M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <gridsquare:6>JN84ra <ituz:2>28 <k_index:3>0.0 <lat:11>N044 01.250 
+<lon:11>E017 27.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:6>Dzevad <pfx:3>E74 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:5>Odzak <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>200726 
+<time_on:6>190831 <qso_date:8>20150613 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:5>HA1BF <cont:2>EU <country:7>Hungary <cqz:2>15 
+<distance:3>0.0 <dxcc:3>239 <eqsl_qslsdate:8>20150613 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: HA1BF Date: 20150613 Time: 0909 Band: 20M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <gridsquare:6>JN97ne <ituz:2>28 <k_index:3>0.0 <lat:11>N047 11.250 
+<lon:11>E019 07.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:4>Feri <pfx:3>HA1 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:8>Bocfolde <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>091504 
+<time_on:6>090958 <qso_date:8>20150613 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>40m <call:5>PA5BS <cont:2>EU <country:11>Netherlands 
+<cqz:2>14 <distance:3>0.0 <dxcc:3>263 <eqsl_qslsdate:8>20150611 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: PA5BS Date: 20150611 Time: 2122 Band: 40M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.040420 <gridsquare:6>JO21mx <ituz:2>27 <k_index:3>0.0 <lat:11>N051 58.750 <lon:11>E005 02.500 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:3>Bas 
+<pfx:3>PA5 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 
+<qth:19>Rotterdam cotterdam <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>212511 
+<time_on:6>212244 <qso_date:8>20150611 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>40m <call:6>IK3FUS <cont:2>EU <country:5>Italy <cqz:2>15 
+<distance:3>0.0 <dxcc:3>248 <eqsl_qslsdate:8>20150611 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:146>Result: 1 out of 1 records added, Information: From: EI5HSB To: IK3FUS Date: 20150611 Time: 2107 Band: 40M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.040000 <gridsquare:6>JN61sr <ituz:2>28 <k_index:3>0.0 <lat:11>N041 43.750 <lon:11>E013 32.500 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:8>Giuseppe 
+<pfx:3>IK3 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 
+<qth:15>Montecchio Magg <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>211340 
+<time_on:6>210735 <qso_date:8>20150611 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>17m <call:5>LX1NJ <cont:2>EU <country:10>Luxembourg 
+<cqz:2>14 <distance:3>0.0 <dxcc:3>254 <eqsl_qslsdate:8>20150611 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: LX1NJ Date: 20150611 Time: 1436 Band: 17M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>18.100150 <gridsquare:6>JN39ar <ituz:2>27 <k_index:3>0.0 <lat:11>N049 43.750 
+<lon:11>E006 02.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:7>Norbert <pfx:3>LX1 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:6>JN29XP <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>143923 
+<time_on:6>143606 <qso_date:8>20150611 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>17m <call:6>CT7ABQ <cont:2>EU <country:8>Portugal 
+<cqz:2>14 <distance:3>0.0 <dxcc:3>272 <eqsl_qslsdate:8>20150610 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:146>Result: 1 out of 1 records added, Information: From: EI5HSB To: CT7ABQ Date: 20150610 Time: 1423 Band: 17M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>18.100150 <gridsquare:6>IM59up <ituz:2>37 <k_index:3>0.0 <lat:11>N039 38.750 
+<lon:11>W008 17.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:5>Paulo <pfx:3>CT7 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:5>Cacem <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>142551 
+<time_on:6>142354 <qso_date:8>20150610 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>17m <call:5>CU3EM <cont:2>EU <country:6>Azores <cqz:2>14 
+<distance:3>0.0 <dxcc:3>149 <eqsl_qslsdate:8>20150610 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: CU3EM Date: 20150610 Time: 1327 Band: 17M Mode: PSK63 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>18.100150 <gridsquare:6>HM68er <ituz:2>36 <k_index:3>0.0 <lat:11>N038 43.750 
+<lon:11>W027 37.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK63 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<pfx:3>CU3 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 
+<rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>132927 <time_on:6>132743 
+<qso_date:8>20150610 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:6>OH3GLY <cont:2>EU <country:7>Finland <cqz:2>15 
+<distance:3>0.0 <dxcc:3>224 <eqsl_qslsdate:8>20150609 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:146>Result: 1 out of 1 records added, Information: From: EI5HSB To: OH3GLY Date: 20150609 Time: 2245 Band: 20M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <gridsquare:6>KP20ir <ituz:2>18 <k_index:3>0.0 <lat:11>N060 43.750 
+<lon:11>E024 42.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:3>Kai <pfx:3>OH3 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:9>Riihimaki <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>224825 
+<time_on:6>224540 <qso_date:8>20150609 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:4>9A1R <cont:2>EU <country:7>Croatia <cqz:2>15 
+<distance:3>0.0 <dxcc:3>497 <eqsl_qslsdate:8>20150609 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:144>Result: 1 out of 1 records added, Information: From: EI5HSB To: 9A1R Date: 20150609 Time: 2157 Band: 20M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <gridsquare:6>JN75vn <ituz:2>28 <k_index:3>0.0 <lat:11>N045 33.750 
+<lon:11>E015 47.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:6>Rafael <pfx:2>9A <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:6>Zagreb <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>220131 
+<time_on:6>215734 <qso_date:8>20150609 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:5>EA3UV <cont:2>EU <country:5>Spain <cqz:2>14 
+<distance:3>0.0 <dxcc:3>281 <eqsl_qslsdate:8>20150609 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: EA3UV Date: 20150609 Time: 2047 Band: 20M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <gridsquare:6>IO63dl <ituz:2>37 <k_index:3>0.0 <lat:11>N053 28.750 
+<lon:11>W007 42.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:4>Luis <pfx:3>EA3 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:13>Torredembarra <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 
+<time_off:6>205045 <time_on:6>204700 <qso_date:8>20150609 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:7>IO2EXPO <cont:2>EU <country:5>Italy <cqz:2>15 
+<distance:3>0.0 <dxcc:3>248 <eqsl_qslsdate:8>20150609 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:148>Result: 1 out of 1 records added, Information: From: EI5HSB To: IO2EXPO Date: 20150609 Time: 2023 Band: 20M Mode: QPSK63 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.072000 <gridsquare:6>JN45ko <ituz:2>28 <k_index:3>0.0 <lat:11>N045 36.250 
+<lon:11>E008 52.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:6>QPSK63 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<pfx:3>IO2 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 
+<rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>203351 <time_on:6>202349 
+<qso_date:8>20150609 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:5>OK1AW <cont:2>EU <country:14>Czech Republic 
+<cqz:2>15 <distance:3>0.0 <dxcc:3>503 <eqsl_qslsdate:8>20150609 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: OK1AW Date: 20150609 Time: 1247 Band: 20M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <gridsquare:9>JO6Ãih <ituz:2>28 <k_index:3>0.0 <lat:11>N050 18.750 
+<lon:11>E012 42.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:5>Pavel <pfx:3>OK1 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:6>NEJDEK <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>125028 
+<time_on:6>124722 <qso_date:8>20150609 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:6>UR5IDU <cont:2>EU <country:7>Ukraine <cqz:2>16 
+<distance:3>0.0 <dxcc:3>288 <eqsl_qslsdate:8>20150807 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:146>Result: 1 out of 1 records added, Information: From: EI5HSB To: UR5IDU Date: 20150608 Time: 2219 Band: 20M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <ituz:2>29 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N 
+<lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:8>Alexandr <pfx:3>UR5 
+<qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 
+<sfi:3>0.0 <swl:1>0 <time_off:6>222204 <time_on:6>221906 <qso_date:8>20150608 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>40m <call:6>OKNHEH <cont:2>EU <country:14>Czech Republic 
+<cqz:2>15 <distance:3>0.0 <dxcc:3>503 <eqsl_qslsdate:8>20150608 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:146>Result: 1 out of 1 records added, Information: From: EI5HSB To: OKNHEH Date: 20150608 Time: 2210 Band: 40M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.040000 <gridsquare:7>JNit9vw <ituz:2>28 <k_index:3>0.0 <lat:11>N000 00.000 
+<lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:6>Eduard <pfx:7>OKNHEH0 <qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>599 
+<rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>221131 <time_on:6>221027 <qso_date:8>20150608 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>40m <call:5>F4ECA <cont:2>EU <country:6>France <cqz:2>14 
+<distance:3>0.0 <dxcc:3>227 <eqsl_qslsdate:8>20150608 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: F4ECA Date: 20150608 Time: 2201 Band: 40M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.040000 <gridsquare:6>JN25do <ituz:2>27 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:8>Frederic 
+<pfx:2>F4 <qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <qth:13>Saiet-Galmter <rst_rcvd:3>599 
+<rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>220513 <time_on:6>220157 <qso_date:8>20150608 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:5>PD0WH <cont:2>EU <country:11>Netherlands 
+<cqz:2>14 <distance:3>0.0 <dxcc:3>263 <eqsl_qslsdate:8>20150608 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: PD0WH Date: 20150608 Time: 2149 Band: 20M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <ituz:2>27 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N 
+<lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:6>Willem <pfx:3>PD0 
+<qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 
+<sfi:3>0.0 <swl:1>0 <time_off:6>215213 <time_on:6>214929 <qso_date:8>20150608 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:5>CT4VB <cont:2>EU <country:8>Portugal <cqz:2>14 
+<distance:3>0.0 <dxcc:3>272 <eqsl_qslsdate:8>20150608 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: CT4VB Date: 20150608 Time: 2129 Band: 20M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <gridsquare:6>IM58jr <ituz:2>37 <k_index:3>0.0 <lat:11>N038 43.750 
+<lon:11>W009 12.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:4>Jose <pfx:3>CT4 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:20>Carnaxide - Portugal <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 
+<swl:1>0 <time_off:6>213220 <time_on:6>212944 <qso_date:8>20150608 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>40m <call:5>OK1KM <cont:2>EU <country:14>Czech Republic 
+<cqz:2>15 <distance:3>0.0 <dxcc:3>503 <eqsl_qslsdate:8>20150608 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: OK1KM Date: 20150608 Time: 2116 Band: 40M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.040000 <gridsquare:7>JO6aegH <ituz:2>28 <k_index:3>0.0 <lat:11>N000 00.000 
+<lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:5>Karel <pfx:3>OK1 <qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <qth:32>Kraslice Kraslice Czech Republic 
+<rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>211714 <time_on:6>211617 
+<qso_date:8>20150608 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:6>DL2OCE <comment:17>First German QSO, <cont:2>EU 
+<country:24>Fed. Republic of Germany <cqz:2>14 <distance:3>0.0 <dxcc:3>230 <eqsl_qslsdate:8>20150608 
+<eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:146>Result: 1 out of 1 records added, Information: From: EI5HSB To: DL2OCE Date: 20150608 Time: 2003 Band: 20M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <gridsquare:6>JO41xw <ituz:2>28 <k_index:3>0.0 <lat:11>N051 56.250 
+<lon:11>E009 57.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:6>Harald <pfx:3>DL2 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <qth:10>Winzenburg <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 
+<time_off:6>200654 <time_on:6>200314 <qso_date:8>20150608 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:6>HB9EBV <cont:2>EU <country:11>Switzerland 
+<cqz:2>14 <distance:3>0.0 <dxcc:3>287 <eqsl_qslsdate:8>20150608 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:146>Result: 1 out of 1 records added, Information: From: EI5HSB To: HB9EBV Date: 20150608 Time: 1515 Band: 20M Mode: PSK63 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <ituz:2>28 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N 
+<lotw_qsl_sent:1>N <mode:5>PSK63 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:4>Toni <pfx:3>HB9 
+<qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 
+<sfi:3>0.0 <swl:1>0 <time_off:6>152413 <time_on:6>151512 <qso_date:8>20150608 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:7>II5EXPO <comment:56>I was at EXPO a few weeks ago so this was a nice contact 
+<cont:2>EU <country:5>Italy <cqz:2>15 <distance:3>0.0 <dxcc:3>248 <eqsl_qslsdate:8>20150608 <eqsl_qsl_rcvd:1>N 
+<eqsl_qsl_sent:1>Y <eqsl_status:147>Result: 1 out of 1 records added, Information: From: EI5HSB To: II5EXPO Date: 20150604 Time: 2253 Band: 20M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <gridsquare:6>JN53dv <ituz:2>28 <k_index:3>0.0 <lat:11>N043 53.750 
+<lon:11>E010 17.500 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:7>Roberto <pfx:3>II5 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>0 <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>225721 
+<time_on:6>225355 <qso_date:8>20150604 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:5>EW7AD <cont:2>EU <country:7>Belarus <cqz:2>16 
+<distance:3>0.0 <dxcc:2>27 <eqsl_qslsdate:8>20150608 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:145>Result: 1 out of 1 records added, Information: From: EI5HSB To: EW7AD Date: 20150604 Time: 2232 Band: 20M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <gridsquare:6>KO53ev <ituz:2>29 <k_index:3>0.0 <lat:11>N000 00.000 
+<lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:6>Sergej <pfx:3>EW7 <qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <qth:26>Mahiliow Mahiliow(Belarus) 
+<rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>223925 <time_on:6>223253 
+<qso_date:8>20150604 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:5>SP8QC <comment:17>3rd ever contact, <cont:2>EU 
+<country:6>Poland <cqz:2>15 <distance:3>0.0 <dxcc:3>269 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 
+<freq:9>14.070000 <gridsquare:9>KO1Ãbm <ituz:2>28 <k_index:3>0.0 <lat:11>N050 31.250 <lon:11>E022 07.500 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:4>Andy 
+<pfx:3>SP8 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 
+<rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>221741 <time_on:6>221642 
+<qso_date:8>20150604 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:6>IZ1NPS <cont:2>EU <country:5>Italy <cqz:2>15 
+<distance:3>0.0 <dxcc:3>248 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>14.070000 <ituz:2>28 
+<k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:5>PSK31 
+<my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:6>Franco <pfx:3>IZ1 <qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y 
+<qso_random:1>0 <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>223647 
+<time_on:6>223349 <qso_date:8>20150603 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:6>SP3FCO <cont:2>EU <country:6>Poland <cqz:2>15 
+<distance:3>0.0 <dxcc:3>269 <eqsl_qslsdate:8>20150608 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:146>Result: 1 out of 1 records added, Information: From: EI5HSB To: SP3FCO Date: 20150603 Time: 2133 Band: 20M Mode: PSK31 RST: 599 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.070000 <ituz:2>28 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N 
+<lotw_qsl_sent:1>N <mode:5>PSK31 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:3>SP3 <qsl_rcvd:1>N 
+<qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:3>0.0 
+<swl:1>0 <time_off:6>213714 <time_on:6>213306 <qso_date:8>20150603 <EOR>
+

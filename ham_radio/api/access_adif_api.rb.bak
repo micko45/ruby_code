@@ -1,0 +1,32 @@
+#if ARGV.length != 1 
+#  puts "We need 1 or 2 args only <filename> <call sign>"
+#  exit
+#end
+
+adif_file = File.open(ARGV[0], "r").read
+
+if ARGV.length != 2 
+  calltoserch = ARGV[1]
+end
+def adif2hast(adif_file
+body = adif_file.split("<EOH>")[1]
+record = body.split("<EOR>")
+#record.each {|x| puts "#{x}"} 
+
+data = Array.new
+record.each do |r|
+  rep_hash = {}
+  elements = r.split("<")
+  elements.shift
+  
+  elements.each do |e|
+    k,v = e.split(">")
+    k = k.split(":")[0]
+    rep_hash[k] = v.nil? ? '' : v.gsub("'", "''")
+  end
+  data.push(rep_hash)
+end
+
+data.each do |x| 
+  puts "#{x['call']}"
+end
