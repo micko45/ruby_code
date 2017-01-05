@@ -33,7 +33,8 @@ module  ADIF2Hash
   end
 
   def ADIF2Hash.searchHash(h, k, search)
-     if h[k].to_s.strip == search
+     if h[k].to_s.strip.include?(search)
+     #if h[k].to_s.strip == search
        return h
      else
        return 0
