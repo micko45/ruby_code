@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby 
 
-username = "ei5hsb"
-password = "Letmein_123"
+username = ""
+password = ""
