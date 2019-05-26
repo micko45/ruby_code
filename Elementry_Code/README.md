@@ -13,10 +13,15 @@ Elementary
 *Modify the previous program such that only multiples of three or five are considered in the sum, e.g. 3, 5, 6, 9, 10, 12, 15 for n=17
 
 *Write a program that asks the user for a number n and gives him the possibility to choose between computing the sum and computing the product of 1,…,n.
+
 *Write a program that prints a multiplication table for numbers up to 12.
+
 *Write a program that prints all prime numbers. (Note: if your programming language does not support arbitrary size numbers, printing all primes up to the largest number you can easily represent is fine too.)
+
 *Write a guessing game where the user has to guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. I counts only as one try if they input the same number multiple times consecutively.
+
 *Write a program that prints the next 20 leap years.
+
 *Write a program that computes 4⋅∑k=1106(−1)k+12k−1=4⋅(1−1/3+1/5−1/7+1/9−1/11…).
 
 
@@ -25,11 +30,17 @@ Lists, Strings
 If your language of choice doesn’t have a build in list and/or string type (e.g. you use C), these exercises should also be solvable for arrays. However, some solutions are very different between an array-based list and a pointer based list, at least if you care about the efficiency of your code. So you might want to either find a library, or investigate how to implement your own linked list if your language doesn’t have it.
 
 Write a function that returns the largest element in a list.
+
 Write function that reverses a list, preferably in place.
+
 Write a function that checks whether an element occurs in a list.
+
 Write a function that returns the elements on odd positions in a list.
+
 Write a function that computes the running total of a list.
+
 Write a function that tests whether a string is a palindrome.
+
 Write three functions that compute the sum of the numbers in a list: using a for-loop, a while-loop and recursion. (Subject to availability of these constructs in your language of choice.)
 Write a function on_all that applies a function to every element of a list. Use it to print the first twenty perfect squares.
 Write a function that concatenates two lists.
